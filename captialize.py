@@ -21,5 +21,7 @@ def toJadenCase(string):
 2.list->string：
   string = ''.join(list)
 3.咱为何不直接用string的capitalize()呢
- 
+4.终极方法：直接用string.title()
+
+总结：有好多种解法。
 '''
